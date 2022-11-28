@@ -15,3 +15,9 @@ public void logowanie za pomocą konta Facebook() {
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+public void Forgot Password() {
+        System.out.println("kliknij na link 'Forgot Password'");
+ 	System.out.println("Podaj adres e-mail")
+     
+    }
