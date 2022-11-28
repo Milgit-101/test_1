@@ -21,3 +21,7 @@ public void Forgot Password() {
  	System.out.println("Podaj adres e-mail")
      
     }
+
+    public void Keep me logged in {
+            System.out.println(Zaznacz checkbox)
+        }
